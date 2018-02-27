@@ -12,3 +12,15 @@ var DNA = "GCAT";
 var RNA = DNA.replace ('T', 'U');
 // var RNA = DNA.replace (T/g, 'U');
 console.log ("RNA", RNA);
+
+
+//challenge #4
+var animal = "ALliGaTor";
+// var animal ="dog";
+
+if 
+    (animal.toLowerCase() ==="alligator") {
+        console.log ("small")
+    } else {
+        console.log ("wide");
+    }
